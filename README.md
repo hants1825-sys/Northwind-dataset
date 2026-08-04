@@ -1,4 +1,3 @@
-# Northwind-dataset
 # Northwind Database Analysis
 ### MIS443 – In-term Test Q4 (2025–2026)
 
