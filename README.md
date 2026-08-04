@@ -151,17 +151,6 @@ The SQL analyses provide valuable insights for Northwind management by:
 - Supporting inventory planning
 - Improving customer retention strategies
 
----
-
-## Repository Structure
-
-```
-.
-├── Northwind.sql                 # Database creation script
-├── MIS443_ID_FullName.sql        # SQL solutions
-├── README.md                     # Project documentation
-└── Report.pdf                    # Output screenshots (if required)
-```
 
 ---
 
